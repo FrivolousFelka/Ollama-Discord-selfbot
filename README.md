@@ -14,4 +14,4 @@ ollama run llama3.2:1b-instruct-q2_K
 
 
 those commands will download it and everything should be good to go 
-
+it may generate slowly, just depends on your hardware
