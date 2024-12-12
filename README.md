@@ -13,7 +13,5 @@ for instruct #very low end machines like a raspberri pi 4
 ollama run llama3.2:1b-instruct-q2_K
 
 
-#command 
->ai your prompt here
 those commands will download it and everything should be good to go 
 
